@@ -1,0 +1,31 @@
+/* Featured Posts Widget Styles
+================================================== */
+
+.olympus-featured-posts-widget ul {
+	padding: 0;
+	margin: 0;
+	list-style: none
+}
+
+.olympus-featured-posts-widget ul li {
+	margin-bottom: 1rem;
+	border-bottom: 1px solid #ECECEC;
+	border-top: 0;
+	padding-bottom: 1rem;
+}
+
+.olympus-featured-posts-widget ul li span {
+	margin-bottom: 0;
+	display: block;
+	line-height: normal
+}
+
+.olympus-featured-posts-widget ul li span a {
+	color: #363636;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+.olympus-featured-posts-widget .olympus-post-date {
+	color: #858585;
+}
